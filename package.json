@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/pffy/tfdx-ts/issues"
   },
-  "homepage": "https://github.com/pffy/tfdx-ts#readme"
+  "homepage": "https://github.com/pffy/tfdx-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
