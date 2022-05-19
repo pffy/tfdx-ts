@@ -1,6 +1,6 @@
 /*
  * src      : obj.ts
- * job      : a TypeScript implementation of IdxToneFive
+ * job      : TypeScript implementation of IdxToneFive
  * git      : https://github.com/pffy/tfdx-ts
  * author   : The Pffy Authors https://pffy.dev
  * license  : https://opensource.org/licenses/MIT
